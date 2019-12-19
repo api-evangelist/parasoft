@@ -1,0 +1,92 @@
+{
+    "name": "Parasoft",
+    "description": "For 25 years, Parasoft has researched and developed software solutions that help organizations deliver defect-free software efficiently. By integrating  development testing, API\/cloud\/SOA\/composite app testing, dev\/test environment management, and soft...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/9094-parasoft.jpg",
+    "tags": [
+        "have api",
+        "testing",
+        "virtualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/parasoft\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Parasoft",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/9094-parasoft.jpg",
+            "humanURL": "http:\/\/www.parasoft.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.parasoft.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.parasoft.com\/rss\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/parasoft"
+        },
+        {
+            "type": "Email",
+            "url": "info@parasoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@parasoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "cesupport@parasoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "office-pl@parasoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "info-pl@parasoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "support-eu@parasoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "info-de@parasoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "netherlands@parasoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "pehr.burenius@parasoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales-uk@parasoft.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/parasoft"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Parasoft"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.parasoft.com\/"
+        }
+    ]
+}
